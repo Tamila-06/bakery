@@ -3,10 +3,10 @@
   margin: 0;
   padding: 0;
 }
-body{
- display: flex;
- flex-direction: column;
- align-items:center;
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .header-wrapper {
   width: 1440px;
@@ -349,7 +349,7 @@ h1 {
 }
 .bread-icon {
   font-size: 60px;
-  color:white;
+  color: white;
   transition: transform 0.3s, color 0.3s;
 }
 
@@ -421,7 +421,7 @@ h1 {
 .section4-wrapper {
   width: 1444px;
   height: 480px;
-  background: url(../image/bread-background.png);
+  background: url(image/bread-background.png);
   display: flex;
   position: relative;
 }
@@ -504,7 +504,7 @@ h1 {
 .div-bread1 {
   width: 770px;
   height: 448px;
-  background: url(../image/b1.png);
+  background: url(image/b1.png);
 }
 .p-bakery5 {
   color: rgb(255, 255, 255);
@@ -924,18 +924,18 @@ h1 {
   position: absolute;
 }
 .section7-wrapper {
-  width: 900px;
+  width: 1440px;
   padding-top: 150px;
   padding-left: 135px;
   padding-bottom: 150px;
   display: flex;
-  justify-content: space-between;
 }
 .div-text7 {
   position: relative;
 }
 .div-img7 {
   position: relative;
+  margin-left: 300px;
 }
 .p-ourbaker7 {
   color: rgb(23, 27, 27);
